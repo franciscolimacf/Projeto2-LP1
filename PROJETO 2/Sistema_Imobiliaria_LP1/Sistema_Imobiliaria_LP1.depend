@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\main.cpp
+	<iostream>
+
+1538001463 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\imovel.cpp
+	"Imovel.h"
+
+1538001463 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\imovel.h
+	<string>
+
+1538002260 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\casa.cpp
+	"Casa.h"
+
+1538002260 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\casa.h
+	<Imovel.h>
+
+1538002677 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\apartamento.cpp
+	"Apartamento.h"
+
+1538002391 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\apartamento.h
+	<Imovel.h>
+
+1538002781 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\terreno.cpp
+	"Terreno.h"
+
+1538002781 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\terreno.h
+	<Imovel.h>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\main.cpp
+	<iostream>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\apartamento.cpp
+	"Apartamento.h"
+
+1538058295 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\apartamento.h
+	<Imovel.h>
+
+1538058295 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\imovel.h
+	<string>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\casa.cpp
+	"Casa.h"
+
+1538058295 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\casa.h
+	<Imovel.h>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\imovel.cpp
+	"Imovel.h"
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\terreno.cpp
+	"Terreno.h"
+
+1538058294 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\terreno.h
+	<Imovel.h>
+
